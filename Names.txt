@@ -1,0 +1,42 @@
+Bulbasaur
+ #001
+Ivysaur
+ #002
+Venusaur
+ #003
+Charmander
+ #004
+Charmeleon
+ #005
+Charizard
+ #006
+Squirtle
+ #007
+Wartortle
+ #008
+Blastoise
+ #009
+Caterpie
+ #010
+Metapod
+ #011
+Butterfree
+ #012
+Weedle
+ #013
+Kakuna
+ #014
+Beedrill
+ #015
+
+
+Pidgeotto
+ #017
+Pidgeot
+ #018
+Rattata
+ #019
+Raticate
+ #020
+
+
